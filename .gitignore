@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-selfcheck.json
+*.egg-info/
+dist/
+build/
+
+# Session and credentials
+*.session
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data - You might want to commit small data files, but ignore large ones
+# For this project, let's commit the data, but this is how you'd ignore it:
+# data/raw_scraped_data.csv
+
+# IDE specific
+.idea/
+.vscode/
