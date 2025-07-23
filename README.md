@@ -122,8 +122,8 @@ birr I-PRICE
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/amharic-fintech-extractor.git
-cd amharic-fintech-extractor
+git clone https://github.com/Miheret-Girmachew/Amharic-Fintech-Extractor.git
+cd /Amharic-Fintech-Extractor
 ```
 
 ### Create and activate a virtual environment
